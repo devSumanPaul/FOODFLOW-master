@@ -1,4 +1,4 @@
-# FOODFLOW-master
+# FOODFLOW
 🍔 FoodFlow is a modern food ordering web application built with HTML, CSS, and JavaScript. It features user authentication, food menu browsing, cart management, AI-based food recommendations, location detection, customer reviews, and a responsive design. Hosted on Render for seamless online food ordering experiences.
 React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
